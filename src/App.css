@@ -1,0 +1,49 @@
+/* Estilo para los días */
+.rbc-day-bg {
+    background-color: wheat;
+    border: 1px solid lightgray;
+  }
+  
+  .rbc-today {
+    background-color: #f0e68c; /* Color más oscuro para el día de hoy */
+  }
+  
+  .rbc-event {
+    background-color: #4682b4; /* Fondo azul de los eventos */
+    color: white;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 14px;
+  }
+  
+  /* Estilo para el título y formulario */
+  h2 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    text-align: center;
+    font-weight: bold; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  }
+  
+  
+  input {
+    margin: 10px;
+    padding: 5px;
+    font-size: 14px;
+  }
+  
+  button {
+    background-color: #4682b4;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #315f86;
+  }
+.rbc-header{
+    background-color: #f0e68c;
+}
